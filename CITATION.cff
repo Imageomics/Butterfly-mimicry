@@ -23,6 +23,7 @@ keywords:
 license: MIT
 message: "If you use this software, please cite both the thesis from preferred-citation and the software itself."
 repository-code: "https://github.com/Imageomics/Butterfly-mimicry"
+doi: 10.5281/zenodo.19701148
 preferred-citation:
   type: "mastersthesis"
   authors:
