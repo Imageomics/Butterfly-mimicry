@@ -1,4 +1,6 @@
-# Understanding Mimicry in Butterflies from Images using Machine Learning [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19701148.svg)](https://doi.org/10.5281/zenodo.19701147)
+# Understanding Mimicry in Butterflies from Images using Machine Learning
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19701148.svg)](https://doi.org/10.5281/zenodo.19701147)
 
 ## Abstract
 
