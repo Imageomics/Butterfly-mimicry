@@ -1,5 +1,7 @@
 # Understanding Mimicry in Butterflies from Images using Machine Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19701148.svg)](https://doi.org/10.5281/zenodo.19701147)
+
 ## Abstract
 
 One of the central goals of evolutionary biology is to quantify the fine variation in adaptive traits, subject to natural selection, and to identify the causal genes. One system where natural selection can be characterized precisely are the tropical Heliconius butterflies. Two species, Heliconius erato and H. melpomene, both warn off predators with bold wing patterns and have evolved to resemble each other (mimicry). This thesis presents current work being done to expand machine learning (ML) algorithms to capture the biological mechanisms underlying mimicry in Heliconius butterflies. We apply an imageomics approach, which uses biology-guided ML to extract biological traits from images.
